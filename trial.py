@@ -1,5 +1,5 @@
 def app_mult(x):
-    x = x*3
+    x = x*4
     return x
 
 def app_print(y):
